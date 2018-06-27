@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[taco.qt-translation-010x]
+file_filter = src/qt/locale/taco_<lang>.ts
+source_file = src/qt/locale/taco_en.ts
+source_lang = en

@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/taco_bg.qm</file>
+        <file alias="de">locale/taco_de.qm</file>
+        <file alias="en">locale/taco_en.qm</file>
+        <file alias="es">locale/taco_es.qm</file>
+        <file alias="fi">locale/taco_fi.qm</file>
+        <file alias="fr">locale/taco_fr.qm</file>
+        <file alias="it">locale/taco_it.qm</file>
+        <file alias="ja">locale/taco_ja.qm</file>
+        <file alias="pl">locale/taco_pl.qm</file>
+        <file alias="pt">locale/taco_pt.qm</file>
+        <file alias="ru">locale/taco_ru.qm</file>
+        <file alias="sk">locale/taco_sk.qm</file>
+        <file alias="sv">locale/taco_sv.qm</file>
+        <file alias="vi">locale/taco_vi.qm</file>
+        <file alias="zh_CN">locale/taco_zh_CN.qm</file>
+        <file alias="zh_TW">locale/taco_zh_TW.qm</file>
+    </qresource>
+</RCC>

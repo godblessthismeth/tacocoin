@@ -1,0 +1,27 @@
+# /etc/conf.d/tacod: config file for /etc/init.d/tacod
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/taco/taco.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/tacod"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/tacod.pid"
+
+# Where to write tacod data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/tacod"
+
+# User and group to own tacod process
+#BITCOIND_USER="taco"
+#BITCOIND_GROUP="taco"
+
+# Path to tacod executable
+#BITCOIND_BIN="/usr/bin/tacod"
+
+# Nice value to run tacod under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS="-disablewallet"
+

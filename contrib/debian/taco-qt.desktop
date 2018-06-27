@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=taco
+Comment=taco P2P Cryptocurrency
+Comment[fr]=taco, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=taco, eşten eşe kriptografik sanal para birimi
+Exec=taco-qt %u
+Terminal=false
+Type=Application
+Icon=taco128
+MimeType=x-scheme-handler/taco;
+Categories=Office;Finance;
